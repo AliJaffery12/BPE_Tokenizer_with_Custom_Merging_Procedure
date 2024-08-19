@@ -38,7 +38,7 @@ The final vocabulary after pruning is saved to a text file.
 
 Complete the calculation of sf_final_vocab, tc_final_vocab, and mtl_final_vocab to evaluate the final BPE model effectively.
 
-# Fine-Tuning BERT for ArXiv Domain Classification
+# 6. Fine-Tuning BERT for ArXiv Domain Classification
 
 # Model Overview
 # BERT (Bidirectional Encoder Representations from Transformers): 
